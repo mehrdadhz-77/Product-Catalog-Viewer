@@ -74,3 +74,26 @@ A full-stack demo that turns raw Kaggle data into an interactive, NLP-powered pr
 - Styles live in `src/App.css`.  
 - Openai api key in `api/api.py`.  
 - Proxy settings in `package.json`.
+
+---
+## 🛠️ Technologies & Packages
+
+### Front-end (React)
+- **React** (v18)  
+- **react-dom**, **react-scripts**  
+- **HTML & CSS** 
+- **Fetch API**
+
+### Back-end (Flask & OpenAI)
+- **Python 3.13**  
+- **Flask** 
+- **openai**
+- **re**, **json**
+
+### Data Processing
+- **Jupyter Notebook**
+- **pandas**, **numpy**
+
+### Environment & Tooling
+- **Conda** – manage Python environment (`environment.yml`)  
+- **npm** – manage and build front-end dependencies    
